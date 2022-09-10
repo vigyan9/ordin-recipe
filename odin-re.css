@@ -1,0 +1,96 @@
+*{
+    box-sizing: border-box;
+    padding:0;
+    margin:0;
+}
+
+.heading{
+    text-align: center;
+    max-width: 50vh;
+    width:95%;
+    margin-left:25%;
+    margin-top: 20px;
+    margin-bottom: 30px;
+ 
+   
+}
+
+.maharaja{
+margin-top: 50px;
+align-items: center;
+margin-bottom: 30px;
+}
+
+.item{
+    max-width: 100vh;
+    width:95%;
+    border:2px solid black ;
+    text-align: center;
+   margin-left: 160px;
+   
+   background-color:  pink;
+    margin-bottom: 20px;
+}
+
+ .items{
+display: flex;
+
+}
+
+.recp-container {
+    
+    max-width: 100vh;
+    width:95%;
+    display: flex;
+    justify-content: space-evenly ;
+    align-items: center;
+    margin-left: 10%;
+    
+}
+.chicken{
+    text-align: center;
+    list-style-type: none;
+}
+.chick{
+   max-width: 5rem; 
+   width:95%;
+   cursor: pointer;
+   border-radius: 10px;
+   background-color: pink;
+   margin-top: 10px;
+}
+
+
+
+.Butter{
+    text-align: center;
+    list-style-type: none;
+}
+.but{
+    max-width: 5rem; 
+   width:95%;
+   cursor: pointer;
+   border-radius: 10px;
+   background-color: pink;
+   margin-top: 10px;
+}
+.species{
+    text-align: center;
+    margin-right: 32%;
+    margin-top: 30px;
+    list-style-type: none;
+    margin-bottom: 30px;
+}
+.spec{
+    max-width: 7rem; 
+   width:95%;
+   cursor: pointer;
+   border-radius: 10px;
+   background-color: pink;
+   margin-top: 10px;
+}
+
+
+
+
+    
